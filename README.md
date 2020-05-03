@@ -1,8 +1,6 @@
 # kindle-notes
 
-This is a GUI application that extracts your notes and highlights from your kindle.
-
-Amazon doesn't let you do this unless you got the book or document through certain official channels, like a library or Amazon.com.
+This is a GUI application that extracts your notes and highlights from your kindle. (Amazon only lets you do it for some books, but not for pdfs and files you download manually.)
 
 ![The app as of May 3, 2020](screenshot.png)
 
