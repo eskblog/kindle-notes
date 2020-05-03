@@ -165,25 +165,3 @@ def setOfBookTitles(filepath):
             pass
     return sorted(books)
 
-#We are going to run this from the command line.
-# If you want to know what arguments to pass check clippingsToBookTxtFile arguments!
-
-#print(setOfBookTitles("/Users/macbook/Coding/PycharmProjects/KindleVacuum/sample/My Clippings.txt"))
-
-# import sys
-# arguments = sys.argv
-# print(str(arguments))
-#
-# if len(arguments) == 2:
-#     print("sending to default directory, taking from default directory")
-#     clippingsToBookTxtFile(arguments[1])
-# elif len(arguments) == 3:
-#     print("sending to default directory")
-#     clippingsToBookTxtFile(arguments[1], arguments[2])
-# elif len(arguments) == 4:
-#     clippingsToBookTxtFile(arguments[1], arguments[2], arguments[3])
-# elif len(arguments) == 5:
-#     clippingsToBookTxtFile(arguments[1], arguments[2], arguments[3], arguments[4])
-# else:
-#     print("not enough or too many arguments")
-
