@@ -6,7 +6,7 @@ This is a GUI application that extracts your notes and highlights from your kind
 
 ## How to use:
 
-Clone the repository and then run kindle_gui.py
+Download the repository, then run kindle_gui.py
 
 A sample clippings file is available in the "sample" folder. Otherwise, you can find your My Clippings.txt file in the "documents" folder of your Kindle.
 
