@@ -11,6 +11,5 @@ Download the repository, then run kindle_gui.py
 A sample clippings file is available in the "sample" folder. Otherwise, you can find your My Clippings.txt file in the "documents" folder of your Kindle.
 
 ### Required packages
-- Make sure to install Pillow
+- Make sure to install Pillow (listed in requirements.txt)
 - tkinter is imported automatically
-
