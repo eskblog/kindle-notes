@@ -4,7 +4,7 @@ This is a GUI application that extracts your notes and highlights from your kind
 
 Amazon doesn't let you do this unless you got the book or document through certain official channels, like a library or Amazon.com.
 
-![The app as of May 3, 2020](screenshot.png | width=100)
+![The app as of May 3, 2020](screenshot.png)
 
 ## How to use:
 
