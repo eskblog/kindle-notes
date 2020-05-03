@@ -1,4 +1,4 @@
-# kindle-notes
+# Kindle Note Extractor
 
 This is a GUI application that extracts your notes and highlights from your kindle. (Amazon only lets you do it for some books, but not for pdfs and files you download manually.)
 
